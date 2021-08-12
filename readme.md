@@ -9,7 +9,6 @@ programming. Complete the implementations and verify that your implementation
 does not have any memory leaks!
 
 # Building
-
 To build this project, you will need a C++ compiler. The `make` script provided
 assumes the GCC compiler, however you may substitute an equivalent C++ compiler
 by adjusting the `make` script as needed. Execute the make script, then run the
